@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/pokeapi/static/css/main.16abb406.chunk.css",
+    "main.js": "/pokeapi/static/js/main.ea939a3a.chunk.js",
+    "main.js.map": "/pokeapi/static/js/main.ea939a3a.chunk.js.map",
+    "runtime-main.js": "/pokeapi/static/js/runtime-main.3090b80c.js",
+    "runtime-main.js.map": "/pokeapi/static/js/runtime-main.3090b80c.js.map",
+    "static/js/2.a22695b6.chunk.js": "/pokeapi/static/js/2.a22695b6.chunk.js",
+    "static/js/2.a22695b6.chunk.js.map": "/pokeapi/static/js/2.a22695b6.chunk.js.map",
+    "index.html": "/pokeapi/index.html",
+    "static/css/main.16abb406.chunk.css.map": "/pokeapi/static/css/main.16abb406.chunk.css.map",
+    "static/js/2.a22695b6.chunk.js.LICENSE.txt": "/pokeapi/static/js/2.a22695b6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/pokeapi/static/media/pokemonBackground.20291847.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3090b80c.js",
+    "static/js/2.a22695b6.chunk.js",
+    "static/css/main.16abb406.chunk.css",
+    "static/js/main.ea939a3a.chunk.js"
+  ]
+}
